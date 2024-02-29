@@ -1,0 +1,717 @@
+Starting MonitoringApplication using Java 17.0.7 with PID 12996 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1456 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 2.923 seconds (process running for 3.426)
+1,2023-08-16 08:22:58, Login API ,,169215437817
+4,2023-08-16 08:22:58, Login API ,169215437817
+1,2023-08-16 08:22:58, SMS API ,,16921543782
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+3,401 ,2023-08-16 08:22:59, SMS API ,701 milliseconds ,16921543782
+1,2023-08-16 08:22:59,Check created campaign Api ,,169215437998
+3,401 ,2023-08-16 08:22:59,Check created campaign Api ,350 milliseconds ,169215437998
+1,2023-08-16 08:22:59,Sms Via Url Campaign API ,,169215437965
+2,2023-08-16 08:23:00,Sms Via Url Campaign API ,411 milliseconds ,169215437965
+1,2023-08-16 08:23:00,Check account balance API ,,16921543807
+2,2023-08-16 08:23:00,Check account balance API ,255 milliseconds ,16921543807
+1,2023-08-16 08:23:00,Campaign List API ,,169215438010
+3,401 ,2023-08-16 08:23:00,Campaign List API ,297 milliseconds ,169215438010
+1,2023-08-16 08:23:00,Create Campaign API ,,169215438077
+3,401 ,2023-08-16 08:23:00,Create Campaign API ,256 milliseconds ,169215438077
+1,2023-08-16 08:23:58, Login API ,,169215443822
+4,2023-08-16 08:23:58, Login API ,169215443822
+1,2023-08-16 08:23:58, SMS API ,,169215443840
+3,401 ,2023-08-16 08:23:58, SMS API ,626 milliseconds ,169215443840
+1,2023-08-16 08:23:58,Check created campaign Api ,,169215443848
+3,401 ,2023-08-16 08:23:59,Check created campaign Api ,217 milliseconds ,169215443848
+1,2023-08-16 08:23:59,Sms Via Url Campaign API ,,169215443971
+2,2023-08-16 08:23:59,Sms Via Url Campaign API ,222 milliseconds ,169215443971
+1,2023-08-16 08:23:59,Check account balance API ,,169215443992
+2,2023-08-16 08:23:59,Check account balance API ,201 milliseconds ,169215443992
+1,2023-08-16 08:23:59,Campaign List API ,,169215443937
+3,401 ,2023-08-16 08:23:59,Campaign List API ,266 milliseconds ,169215443937
+1,2023-08-16 08:23:59,Create Campaign API ,,169215443968
+3,401 ,2023-08-16 08:23:59,Create Campaign API ,202 milliseconds ,169215443968
+1,2023-08-16 08:24:58, Login API ,,169215449829
+4,2023-08-16 08:24:58, Login API ,169215449829
+1,2023-08-16 08:24:58, SMS API ,,169215449816
+3,401 ,2023-08-16 08:24:58, SMS API ,342 milliseconds ,169215449816
+1,2023-08-16 08:24:58,Check created campaign Api ,,169215449844
+3,401 ,2023-08-16 08:24:58,Check created campaign Api ,207 milliseconds ,169215449844
+1,2023-08-16 08:24:58,Sms Via Url Campaign API ,,169215449838
+2,2023-08-16 08:24:59,Sms Via Url Campaign API ,227 milliseconds ,169215449838
+1,2023-08-16 08:24:59,Check account balance API ,,169215449945
+2,2023-08-16 08:24:59,Check account balance API ,195 milliseconds ,169215449945
+1,2023-08-16 08:24:59,Campaign List API ,,169215449994
+3,401 ,2023-08-16 08:24:59,Campaign List API ,316 milliseconds ,169215449994
+1,2023-08-16 08:24:59,Create Campaign API ,,16921544990
+3,401 ,2023-08-16 08:24:59,Create Campaign API ,200 milliseconds ,16921544990
+1,2023-08-16 08:25:58, Login API ,,169215455841
+4,2023-08-16 08:25:58, Login API ,169215455841
+1,2023-08-16 08:25:58, SMS API ,,16921545587
+3,401 ,2023-08-16 08:25:58, SMS API ,748 milliseconds ,16921545587
+1,2023-08-16 08:25:59,Check created campaign Api ,,169215455814
+3,401 ,2023-08-16 08:25:59,Check created campaign Api ,411 milliseconds ,169215455814
+1,2023-08-16 08:25:59,Sms Via Url Campaign API ,,16921545591
+2,2023-08-16 08:25:59,Sms Via Url Campaign API ,428 milliseconds ,16921545591
+1,2023-08-16 08:25:59,Check account balance API ,,169215455985
+2,2023-08-16 08:26:00,Check account balance API ,202 milliseconds ,169215455985
+1,2023-08-16 08:26:00,Campaign List API ,,169215456050
+3,401 ,2023-08-16 08:26:00,Campaign List API ,200 milliseconds ,169215456050
+1,2023-08-16 08:26:00,Create Campaign API ,,169215456043
+3,401 ,2023-08-16 08:26:00,Create Campaign API ,227 milliseconds ,169215456043
+Starting MonitoringApplication using Java 17.0.7 with PID 9172 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1485 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 3.105 seconds (process running for 3.63)
+1,2023-08-16 09:16:51, Login API ,,169215761134
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+4,2023-08-16 09:16:52, Login API ,169215761134
+1,2023-08-16 09:16:52,SMS API ,,16921576128
+3,401 ,2023-08-16 09:16:52,SMS API ,757 milliseconds ,16921576128
+1,2023-08-16 09:16:52,Check created campaign Api ,,169215761294
+3,401 ,2023-08-16 09:16:53,Check created campaign Api ,198 milliseconds ,169215761294
+1,2023-08-16 09:16:53,Sms Via Url Campaign API ,,169215761319
+2,2023-08-16 09:16:53,Sms Via Url Campaign API ,227 milliseconds ,169215761319
+1,2023-08-16 09:16:53,Check account balance API ,,169215761321
+2,2023-08-16 09:16:53,Check account balance API ,221 milliseconds ,169215761321
+1,2023-08-16 09:16:53,Campaign List API ,,169215761337
+3,401 ,2023-08-16 09:16:53,Campaign List API ,305 milliseconds ,169215761337
+1,2023-08-16 09:16:53,Create Campaign API ,,16921576139
+3,401 ,2023-08-16 09:16:54,Create Campaign API ,220 milliseconds ,16921576139
+Starting MonitoringApplication using Java 17.0.7 with PID 15924 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1679 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 3.189 seconds (process running for 3.844)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 3 ms
+1,2023-08-16 09:52:03, Login API ,,169215972237
+2,2023-08-16 09:52:03, Login API ,819 milliseconds ,169215972237
+1,2023-08-16 09:52:03,SMS API ,,169215972324
+4,2023-08-16 09:52:05,SMS API  ,169215972324
+1,2023-08-16 09:52:05,Check created campaign Api ,,169215972573
+3,401 ,2023-08-16 09:52:05,Check created campaign Api ,507 milliseconds ,169215972573
+1,2023-08-16 09:52:05,Sms Via Url Campaign API ,,169215972574
+2,2023-08-16 09:52:06,Sms Via Url Campaign API ,393 milliseconds ,169215972574
+1,2023-08-16 09:52:06,Check account balance API ,,169215972610
+2,2023-08-16 09:52:06,Check account balance API ,276 milliseconds ,169215972610
+1,2023-08-16 09:52:06,Campaign List API ,,16921597263
+2,2023-08-16 09:52:06,Campaign List API ,354 milliseconds ,16921597263
+1,2023-08-16 09:52:06,Create Campaign API ,,169215972639
+2,2023-08-16 09:52:06,Create Campaign API ,317 milliseconds ,169215972639
+1,2023-08-16 09:53:02, Login API ,,169215978298
+2,2023-08-16 09:53:03, Login API ,540 milliseconds ,169215978298
+1,2023-08-16 09:53:03,SMS API ,,169215978328
+3,500 ,2023-08-16 09:53:03,SMS API ,558 milliseconds ,169215978328
+1,2023-08-16 09:53:03,Check created campaign Api ,,169215978391
+3,401 ,2023-08-16 09:53:04,Check created campaign Api ,330 milliseconds ,169215978391
+1,2023-08-16 09:53:04,Sms Via Url Campaign API ,,169215978416
+2,2023-08-16 09:53:04,Sms Via Url Campaign API ,404 milliseconds ,169215978416
+1,2023-08-16 09:53:04,Check account balance API ,,169215978490
+2,2023-08-16 09:53:04,Check account balance API ,296 milliseconds ,169215978490
+1,2023-08-16 09:53:04,Campaign List API ,,169215978496
+2,2023-08-16 09:53:05,Campaign List API ,330 milliseconds ,169215978496
+1,2023-08-16 09:53:05,Create Campaign API ,,169215978574
+2,2023-08-16 09:53:05,Create Campaign API ,364 milliseconds ,169215978574
+1,2023-08-16 09:54:02, Login API ,,169215984241
+2,2023-08-16 09:54:03, Login API ,349 milliseconds ,169215984241
+1,2023-08-16 09:54:03,SMS API ,,169215984357
+3,500 ,2023-08-16 09:54:03,SMS API ,437 milliseconds ,169215984357
+1,2023-08-16 09:54:03,Check created campaign Api ,,169215984334
+3,401 ,2023-08-16 09:54:03,Check created campaign Api ,216 milliseconds ,169215984334
+1,2023-08-16 09:54:03,Sms Via Url Campaign API ,,169215984393
+2,2023-08-16 09:54:04,Sms Via Url Campaign API ,340 milliseconds ,169215984393
+1,2023-08-16 09:54:04,Check account balance API ,,169215984462
+2,2023-08-16 09:54:04,Check account balance API ,209 milliseconds ,169215984462
+1,2023-08-16 09:54:04,Campaign List API ,,169215984424
+2,2023-08-16 09:54:04,Campaign List API ,233 milliseconds ,169215984424
+1,2023-08-16 09:54:04,Create Campaign API ,,169215984496
+2,2023-08-16 09:54:04,Create Campaign API ,240 milliseconds ,169215984496
+Starting MonitoringApplication using Java 17.0.7 with PID 5428 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1298 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 2.822 seconds (process running for 3.402)
+1,2023-08-16 09:56:17, Login API ,,169215997735
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+2,2023-08-16 09:56:18, Login API ,848 milliseconds ,169215997735
+1,2023-08-16 09:56:18,SMS API ,,169215997836
+3,500 ,2023-08-16 09:56:19,SMS API ,523 milliseconds ,169215997836
+1,2023-08-16 09:56:19,Check created campaign Api ,,169215997984
+3,401 ,2023-08-16 09:56:19,Check created campaign Api ,232 milliseconds ,169215997984
+1,2023-08-16 09:56:19,Sms Via Url Campaign API ,,169215997997
+2,2023-08-16 09:56:19,Sms Via Url Campaign API ,294 milliseconds ,169215997997
+1,2023-08-16 09:56:19,Check account balance API ,,169215997981
+2,2023-08-16 09:56:19,Check account balance API ,228 milliseconds ,169215997981
+1,2023-08-16 09:56:19,Campaign List API ,,169215997931
+2,2023-08-16 09:56:20,Campaign List API ,281 milliseconds ,169215997931
+1,2023-08-16 09:56:20,Create Campaign API ,,169215998014
+2,2023-08-16 09:56:20,Create Campaign API ,295 milliseconds ,169215998014
+1,2023-08-16 09:57:17, Login API ,,169216003763
+2,2023-08-16 09:57:18, Login API ,490 milliseconds ,169216003763
+1,2023-08-16 09:57:18,SMS API ,,169216003859
+3,500 ,2023-08-16 09:57:18,SMS API ,285 milliseconds ,169216003859
+1,2023-08-16 09:57:18,Check created campaign Api ,,169216003885
+3,401 ,2023-08-16 09:57:18,Check created campaign Api ,224 milliseconds ,169216003885
+1,2023-08-16 09:57:18,Sms Via Url Campaign API ,,169216003892
+2,2023-08-16 09:57:18,Sms Via Url Campaign API ,229 milliseconds ,169216003892
+1,2023-08-16 09:57:18,Check account balance API ,,169216003815
+2,2023-08-16 09:57:19,Check account balance API ,201 milliseconds ,169216003815
+1,2023-08-16 09:57:19,Campaign List API ,,169216003976
+2,2023-08-16 09:57:19,Campaign List API ,213 milliseconds ,169216003976
+1,2023-08-16 09:57:19,Create Campaign API ,,169216003963
+2,2023-08-16 09:57:19,Create Campaign API ,270 milliseconds ,169216003963
+1,2023-08-16 09:58:17, Login API ,,169216009780
+2,2023-08-16 09:58:18, Login API ,381 milliseconds ,169216009780
+1,2023-08-16 09:58:18,SMS API ,,16921600987
+3,500 ,2023-08-16 09:58:18,SMS API ,350 milliseconds ,16921600987
+1,2023-08-16 09:58:18,Check created campaign Api ,,169216009888
+3,401 ,2023-08-16 09:58:18,Check created campaign Api ,240 milliseconds ,169216009888
+1,2023-08-16 09:58:18,Sms Via Url Campaign API ,,169216009814
+2,2023-08-16 09:58:18,Sms Via Url Campaign API ,219 milliseconds ,169216009814
+1,2023-08-16 09:58:18,Check account balance API ,,169216009870
+2,2023-08-16 09:58:19,Check account balance API ,230 milliseconds ,169216009870
+1,2023-08-16 09:58:19,Campaign List API ,,169216009961
+2,2023-08-16 09:58:19,Campaign List API ,224 milliseconds ,169216009961
+1,2023-08-16 09:58:19,Create Campaign API ,,169216009923
+2,2023-08-16 09:58:19,Create Campaign API ,287 milliseconds ,169216009923
+1,2023-08-16 09:59:17, Login API ,,169216015717
+2,2023-08-16 09:59:18, Login API ,355 milliseconds ,169216015717
+1,2023-08-16 09:59:18,SMS API ,,169216015885
+3,500 ,2023-08-16 09:59:18,SMS API ,332 milliseconds ,169216015885
+1,2023-08-16 09:59:18,Check created campaign Api ,,169216015820
+3,401 ,2023-08-16 09:59:18,Check created campaign Api ,211 milliseconds ,169216015820
+1,2023-08-16 09:59:18,Sms Via Url Campaign API ,,169216015842
+2,2023-08-16 09:59:18,Sms Via Url Campaign API ,241 milliseconds ,169216015842
+1,2023-08-16 09:59:18,Check account balance API ,,169216015870
+2,2023-08-16 09:59:19,Check account balance API ,252 milliseconds ,169216015870
+1,2023-08-16 09:59:19,Campaign List API ,,169216015978
+2,2023-08-16 09:59:19,Campaign List API ,234 milliseconds ,169216015978
+1,2023-08-16 09:59:19,Create Campaign API ,,169216015914
+2,2023-08-16 09:59:19,Create Campaign API ,307 milliseconds ,169216015914
+1,2023-08-16 10:00:17, Login API ,,169216021718
+2,2023-08-16 10:00:18, Login API ,533 milliseconds ,169216021718
+1,2023-08-16 10:00:18,SMS API ,,169216021853
+3,500 ,2023-08-16 10:00:18,SMS API ,487 milliseconds ,169216021853
+1,2023-08-16 10:00:18,Check created campaign Api ,,169216021814
+3,401 ,2023-08-16 10:00:19,Check created campaign Api ,407 milliseconds ,169216021814
+1,2023-08-16 10:00:19,Sms Via Url Campaign API ,,169216021949
+2,2023-08-16 10:00:19,Sms Via Url Campaign API ,399 milliseconds ,169216021949
+1,2023-08-16 10:00:19,Check account balance API ,,169216021918
+2,2023-08-16 10:00:19,Check account balance API ,251 milliseconds ,169216021918
+1,2023-08-16 10:00:19,Campaign List API ,,169216021980
+2,2023-08-16 10:00:19,Campaign List API ,254 milliseconds ,169216021980
+1,2023-08-16 10:00:20,Create Campaign API ,,169216022041
+2,2023-08-16 10:00:20,Create Campaign API ,426 milliseconds ,169216022041
+Starting MonitoringApplication using Java 17.0.7 with PID 11472 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1509 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started MonitoringApplication in 3.012 seconds (process running for 3.607)
+1,2023-08-16 10:07:16, Login API ,,169216063645
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+4,2023-08-16 10:07:17, Login API ,169216063645
+1,2023-08-16 10:07:17,SMS API ,,169216063792
+3,401 ,2023-08-16 10:07:17,SMS API ,731 milliseconds ,169216063792
+1,2023-08-16 10:07:17,Check created campaign Api ,,169216063775
+3,401 ,2023-08-16 10:07:18,Check created campaign Api ,314 milliseconds ,169216063775
+1,2023-08-16 10:07:18,Sms Via Url Campaign API ,,169216063894
+2,2023-08-16 10:07:18,Sms Via Url Campaign API ,477 milliseconds ,169216063894
+1,2023-08-16 10:07:18,Check account balance API ,,169216063865
+2,2023-08-16 10:07:19,Check account balance API ,397 milliseconds ,169216063865
+1,2023-08-16 10:07:19,Campaign List API ,,169216063918
+3,401 ,2023-08-16 10:07:19,Campaign List API ,639 milliseconds ,169216063918
+1,2023-08-16 10:07:19,Create Campaign API ,,16921606397
+3,401 ,2023-08-16 10:07:20,Create Campaign API ,320 milliseconds ,16921606397
+Starting MonitoringApplication using Java 17.0.7 with PID 3648 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2081 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 4.42 seconds (process running for 4.941)
+1,2023-08-16 10:08:04, Login API ,,169216068489
+4,2023-08-16 10:08:04, Login API ,169216068489
+1,2023-08-16 10:08:04,SMS API ,,169216068487
+4,2023-08-16 10:08:05,SMS API  ,169216068487
+1,2023-08-16 10:08:05,Check created campaign Api ,,169216068531
+3,401 ,2023-08-16 10:08:06,Check created campaign Api ,363 milliseconds ,169216068531
+1,2023-08-16 10:08:06,Sms Via Url Campaign API ,,169216068614
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+2,2023-08-16 10:08:06,Sms Via Url Campaign API ,412 milliseconds ,169216068614
+1,2023-08-16 10:08:06,Check account balance API ,,169216068643
+2,2023-08-16 10:08:07,Check account balance API ,328 milliseconds ,169216068643
+1,2023-08-16 10:08:07,Campaign List API ,,169216068769
+3,401 ,2023-08-16 10:08:07,Campaign List API ,472 milliseconds ,169216068769
+1,2023-08-16 10:08:07,Create Campaign API ,,169216068742
+3,401 ,2023-08-16 10:08:07,Create Campaign API ,321 milliseconds ,169216068742
+1,2023-08-16 10:08:16, Login API ,,169216069692
+4,2023-08-16 10:08:16, Login API ,169216069692
+1,2023-08-16 10:08:16,SMS API ,,169216069649
+3,401 ,2023-08-16 10:08:17,SMS API ,653 milliseconds ,169216069649
+1,2023-08-16 10:08:17,Check created campaign Api ,,169216069754
+3,401 ,2023-08-16 10:08:17,Check created campaign Api ,318 milliseconds ,169216069754
+1,2023-08-16 10:08:17,Sms Via Url Campaign API ,,169216069766
+2,2023-08-16 10:08:18,Sms Via Url Campaign API ,356 milliseconds ,169216069766
+1,2023-08-16 10:08:18,Check account balance API ,,169216069854
+2,2023-08-16 10:08:18,Check account balance API ,356 milliseconds ,169216069854
+1,2023-08-16 10:08:18,Campaign List API ,,169216069853
+3,401 ,2023-08-16 10:08:18,Campaign List API ,455 milliseconds ,169216069853
+1,2023-08-16 10:08:18,Create Campaign API ,,16921606982
+3,401 ,2023-08-16 10:08:19,Create Campaign API ,234 milliseconds ,16921606982
+Starting MonitoringApplication using Java 17.0.7 with PID 16156 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2540 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 4.722 seconds (process running for 5.484)
+1,2023-08-16 10:31:42, Login API ,,169216210215
+4,2023-08-16 10:31:42, Login API ,169216210215
+1,2023-08-16 10:31:42,SMS API ,,169216210250
+4,2023-08-16 10:31:43,SMS API  ,169216210250
+1,2023-08-16 10:31:43,Check created campaign Api ,,169216210322
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+3,401 ,2023-08-16 10:31:44,Check created campaign Api ,460 milliseconds ,169216210322
+1,2023-08-16 10:31:44,Sms Via Url Campaign API ,,169216210439
+2,2023-08-16 10:31:44,Sms Via Url Campaign API ,376 milliseconds ,169216210439
+1,2023-08-16 10:31:44,Check account balance API ,,169216210431
+2,2023-08-16 10:31:45,Check account balance API ,196 milliseconds ,169216210431
+1,2023-08-16 10:31:45,Campaign List API ,,169216210512
+3,401 ,2023-08-16 10:31:45,Campaign List API ,322 milliseconds ,169216210512
+1,2023-08-16 10:31:45,Create Campaign API ,,169216210531
+3,401 ,2023-08-16 10:31:45,Create Campaign API ,274 milliseconds ,169216210531
+1,2023-08-16 10:32:42, Login API ,,169216216270
+4,2023-08-16 10:32:42, Login API ,169216216270
+1,2023-08-16 10:32:42,SMS API ,,169216216297
+3,401 ,2023-08-16 10:32:42,SMS API ,241 milliseconds ,169216216297
+1,2023-08-16 10:32:42,Check created campaign Api ,,169216216231
+3,401 ,2023-08-16 10:32:42,Check created campaign Api ,196 milliseconds ,169216216231
+1,2023-08-16 10:32:42,Sms Via Url Campaign API ,,169216216243
+2,2023-08-16 10:32:43,Sms Via Url Campaign API ,313 milliseconds ,169216216243
+1,2023-08-16 10:32:43,Check account balance API ,,169216216365
+2,2023-08-16 10:32:43,Check account balance API ,237 milliseconds ,169216216365
+1,2023-08-16 10:32:43,Campaign List API ,,169216216388
+3,401 ,2023-08-16 10:32:43,Campaign List API ,220 milliseconds ,169216216388
+1,2023-08-16 10:32:43,Create Campaign API ,,169216216313
+3,401 ,2023-08-16 10:32:43,Create Campaign API ,191 milliseconds ,169216216313
+Starting MonitoringApplication using Java 17.0.7 with PID 428 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1715 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 3.32 seconds (process running for 4.008)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+1,2023-08-16 10:34:09, Login API ,,169216224934
+4,2023-08-16 10:34:12, Login API ,169216224934
+1,2023-08-16 10:34:12,SMS API ,,169216225262
+3,401 ,2023-08-16 10:34:13,SMS API ,498 milliseconds ,169216225262
+1,2023-08-16 10:34:13,Check created campaign Api ,,169216225366
+3,401 ,2023-08-16 10:34:13,Check created campaign Api ,225 milliseconds ,169216225366
+1,2023-08-16 10:34:13,Sms Via Url Campaign API ,,169216225349
+2,2023-08-16 10:34:13,Sms Via Url Campaign API ,285 milliseconds ,169216225349
+1,2023-08-16 10:34:13,Check account balance API ,,169216225349
+2,2023-08-16 10:34:13,Check account balance API ,231 milliseconds ,169216225349
+1,2023-08-16 10:34:13,Campaign List API ,,169216225383
+3,401 ,2023-08-16 10:34:14,Campaign List API ,303 milliseconds ,169216225383
+1,2023-08-16 10:34:14,Create Campaign API ,,169216225474
+3,401 ,2023-08-16 10:34:14,Create Campaign API ,211 milliseconds ,169216225474
+1,2023-08-16 10:35:09, Login API ,,16921623096
+2,2023-08-16 10:35:09, Login API ,364 milliseconds ,16921623096
+1,2023-08-16 10:35:09,SMS API ,,169216230910
+3,500 ,2023-08-16 10:35:09,SMS API ,376 milliseconds ,169216230910
+1,2023-08-16 10:35:09,Check created campaign Api ,,169216230952
+3,401 ,2023-08-16 10:35:10,Check created campaign Api ,215 milliseconds ,169216230952
+1,2023-08-16 10:35:10,Sms Via Url Campaign API ,,16921623108
+2,2023-08-16 10:35:10,Sms Via Url Campaign API ,278 milliseconds ,16921623108
+1,2023-08-16 10:35:10,Check account balance API ,,169216231031
+2,2023-08-16 10:35:10,Check account balance API ,237 milliseconds ,169216231031
+1,2023-08-16 10:35:10,Campaign List API ,,169216231039
+2,2023-08-16 10:35:11,Campaign List API ,335 milliseconds ,169216231039
+1,2023-08-16 10:35:11,Create Campaign API ,,169216231131
+2,2023-08-16 10:35:11,Create Campaign API ,279 milliseconds ,169216231131
+1,2023-08-16 10:36:09, Login API ,,169216236983
+2,2023-08-16 10:36:09, Login API ,467 milliseconds ,169216236983
+1,2023-08-16 10:36:09,SMS API ,,169216236956
+4,2023-08-16 10:36:10,SMS API  ,169216236956
+1,2023-08-16 10:36:10,Check created campaign Api ,,169216237021
+3,401 ,2023-08-16 10:36:10,Check created campaign Api ,249 milliseconds ,169216237021
+1,2023-08-16 10:36:10,Sms Via Url Campaign API ,,16921623706
+2,2023-08-16 10:36:11,Sms Via Url Campaign API ,293 milliseconds ,16921623706
+1,2023-08-16 10:36:11,Check account balance API ,,169216237127
+2,2023-08-16 10:36:11,Check account balance API ,203 milliseconds ,169216237127
+1,2023-08-16 10:36:11,Campaign List API ,,169216237150
+2,2023-08-16 10:36:11,Campaign List API ,217 milliseconds ,169216237150
+1,2023-08-16 10:36:11,Create Campaign API ,,169216237197
+2,2023-08-16 10:36:11,Create Campaign API ,278 milliseconds ,169216237197
+1,2023-08-16 10:37:09, Login API ,,169216242947
+2,2023-08-16 10:37:09, Login API ,509 milliseconds ,169216242947
+1,2023-08-16 10:37:09,SMS API ,,169216242922
+3,500 ,2023-08-16 10:37:10,SMS API ,340 milliseconds ,169216242922
+1,2023-08-16 10:37:10,Check created campaign Api ,,169216243080
+3,401 ,2023-08-16 10:37:10,Check created campaign Api ,205 milliseconds ,169216243080
+1,2023-08-16 10:37:10,Sms Via Url Campaign API ,,169216243052
+2,2023-08-16 10:37:10,Sms Via Url Campaign API ,259 milliseconds ,169216243052
+1,2023-08-16 10:37:10,Check account balance API ,,169216243046
+2,2023-08-16 10:37:10,Check account balance API ,214 milliseconds ,169216243046
+1,2023-08-16 10:37:10,Campaign List API ,,169216243037
+2,2023-08-16 10:37:11,Campaign List API ,280 milliseconds ,169216243037
+1,2023-08-16 10:37:11,Create Campaign API ,,169216243182
+2,2023-08-16 10:37:11,Create Campaign API ,340 milliseconds ,169216243182
+1,2023-08-16 10:38:09, Login API ,,169216248993
+2,2023-08-16 10:38:09, Login API ,416 milliseconds ,169216248993
+1,2023-08-16 10:38:09,SMS API ,,169216248922
+3,500 ,2023-08-16 10:38:10,SMS API ,590 milliseconds ,169216248922
+1,2023-08-16 10:38:10,Check created campaign Api ,,169216249029
+3,401 ,2023-08-16 10:38:10,Check created campaign Api ,250 milliseconds ,169216249029
+1,2023-08-16 10:38:10,Sms Via Url Campaign API ,,169216249079
+2,2023-08-16 10:38:10,Sms Via Url Campaign API ,246 milliseconds ,169216249079
+1,2023-08-16 10:38:10,Check account balance API ,,169216249060
+2,2023-08-16 10:38:10,Check account balance API ,247 milliseconds ,169216249060
+1,2023-08-16 10:38:10,Campaign List API ,,169216249036
+2,2023-08-16 10:38:11,Campaign List API ,237 milliseconds ,169216249036
+1,2023-08-16 10:38:11,Create Campaign API ,,169216249196
+2,2023-08-16 10:38:11,Create Campaign API ,251 milliseconds ,169216249196
+1,2023-08-16 10:39:09, Login API ,,169216254923
+4,2023-08-16 10:39:10, Login API ,169216254923
+1,2023-08-16 10:39:10,SMS API ,,169216255093
+3,401 ,2023-08-16 10:39:10,SMS API ,446 milliseconds ,169216255093
+1,2023-08-16 10:39:10,Check created campaign Api ,,169216255076
+3,401 ,2023-08-16 10:39:10,Check created campaign Api ,248 milliseconds ,169216255076
+1,2023-08-16 10:39:10,Sms Via Url Campaign API ,,169216255097
+2,2023-08-16 10:39:11,Sms Via Url Campaign API ,345 milliseconds ,169216255097
+1,2023-08-16 10:39:11,Check account balance API ,,169216255197
+2,2023-08-16 10:39:11,Check account balance API ,277 milliseconds ,169216255197
+1,2023-08-16 10:39:11,Campaign List API ,,169216255148
+3,401 ,2023-08-16 10:39:11,Campaign List API ,325 milliseconds ,169216255148
+1,2023-08-16 10:39:11,Create Campaign API ,,169216255145
+3,401 ,2023-08-16 10:39:12,Create Campaign API ,238 milliseconds ,169216255145
+Starting MonitoringApplication using Java 17.0.7 with PID 1184 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1406 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 2.947 seconds (process running for 3.519)
+1,2023-08-16 10:43:30, Login API ,,169216281036
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+2,2023-08-16 10:43:31, Login API ,921 milliseconds ,169216281036
+1,2023-08-16 10:43:31,SMS API ,,169216281158
+3,500 ,2023-08-16 10:43:32,SMS API ,643 milliseconds ,169216281158
+1,2023-08-16 10:43:32,Check created campaign Api ,,169216281266
+3,401 ,2023-08-16 10:43:32,Check created campaign Api ,227 milliseconds ,169216281266
+1,2023-08-16 10:43:32,Sms Via Url Campaign API ,,169216281286
+2,2023-08-16 10:43:33,Sms Via Url Campaign API ,248 milliseconds ,169216281286
+1,2023-08-16 10:43:33,Check account balance API ,,169216281376
+2,2023-08-16 10:43:33,Check account balance API ,208 milliseconds ,169216281376
+1,2023-08-16 10:43:33,Campaign List API ,,169216281320
+2,2023-08-16 10:43:33,Campaign List API ,221 milliseconds ,169216281320
+1,2023-08-16 10:43:33,Create Campaign API ,,169216281322
+2,2023-08-16 10:43:33,Create Campaign API ,336 milliseconds ,169216281322
+Starting MonitoringApplication using Java 17.0.7 with PID 14264 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2569 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 4.943 seconds (process running for 6.249)
+1,2023-08-16 10:48:36, Login API ,,169216311642
+2,2023-08-16 10:48:37, Login API ,920 milliseconds ,169216311642
+1,2023-08-16 10:48:37,SMS API ,,169216311786
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 3 ms
+3,500 ,2023-08-16 10:48:37,SMS API ,478 milliseconds ,169216311786
+1,2023-08-16 10:48:37,Check created campaign Api ,,169216311753
+3,401 ,2023-08-16 10:48:38,Check created campaign Api ,237 milliseconds ,169216311753
+1,2023-08-16 10:48:38,Sms Via Url Campaign API ,,169216311831
+2,2023-08-16 10:48:38,Sms Via Url Campaign API ,302 milliseconds ,169216311831
+1,2023-08-16 10:48:38,Check account balance API ,,169216311825
+2,2023-08-16 10:48:38,Check account balance API ,234 milliseconds ,169216311825
+1,2023-08-16 10:48:38,Campaign List API ,,169216311882
+2,2023-08-16 10:48:39,Campaign List API ,245 milliseconds ,169216311882
+1,2023-08-16 10:48:39,Create Campaign API ,,169216311914
+2,2023-08-16 10:48:39,Create Campaign API ,354 milliseconds ,169216311914
+1,2023-08-16 10:49:36, Login API ,,16921631762
+2,2023-08-16 10:49:37, Login API ,872 milliseconds ,16921631762
+1,2023-08-16 10:49:37,SMS API ,,169216317785
+3,500 ,2023-08-16 10:49:37,SMS API ,535 milliseconds ,169216317785
+1,2023-08-16 10:49:37,Check created campaign Api ,,169216317786
+3,401 ,2023-08-16 10:49:37,Check created campaign Api ,344 milliseconds ,169216317786
+1,2023-08-16 10:49:37,Sms Via Url Campaign API ,,169216317798
+2,2023-08-16 10:49:38,Sms Via Url Campaign API ,745 milliseconds ,169216317798
+1,2023-08-16 10:49:38,Check account balance API ,,169216317810
+2,2023-08-16 10:49:39,Check account balance API ,287 milliseconds ,169216317810
+1,2023-08-16 10:49:39,Campaign List API ,,169216317953
+2,2023-08-16 10:49:39,Campaign List API ,309 milliseconds ,169216317953
+1,2023-08-16 10:49:39,Create Campaign API ,,169216317991
+2,2023-08-16 10:49:39,Create Campaign API ,300 milliseconds ,169216317991
+Starting MonitoringApplication using Java 17.0.7 with PID 7840 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1455 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+Pausing ProtocolHandler ["http-nio-8081"]
+Stopping service [Tomcat]
+Stopping ProtocolHandler ["http-nio-8081"]
+Destroying ProtocolHandler ["http-nio-8081"]
+
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8081 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8081 or configure this application to listen on another port.
+
+Starting MonitoringApplication using Java 17.0.7 with PID 1100 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2127 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 4.223 seconds (process running for 4.848)
+1,2023-08-16 12:43:11, Login API ,,169216999115
+2,2023-08-16 12:43:12, Login API ,808 milliseconds ,169216999115
+1,2023-08-16 12:43:12,SMS API ,,16921699928
+3,500 ,2023-08-16 12:43:13,SMS API ,497 milliseconds ,16921699928
+1,2023-08-16 12:43:13,Check created campaign Api ,,169216999326
+3,401 ,2023-08-16 12:43:13,Check created campaign Api ,340 milliseconds ,169216999326
+1,2023-08-16 12:43:13,Sms Via Url Campaign API ,,169216999379
+2,2023-08-16 12:43:13,Sms Via Url Campaign API ,320 milliseconds ,169216999379
+1,2023-08-16 12:43:13,Check account balance API ,,169216999355
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+2,2023-08-16 12:43:14,Check account balance API ,237 milliseconds ,169216999355
+1,2023-08-16 12:43:14,Campaign List API ,,169216999419
+2,2023-08-16 12:43:14,Campaign List API ,257 milliseconds ,169216999419
+1,2023-08-16 12:43:14,Create Campaign API ,,16921699946
+2,2023-08-16 12:43:14,Create Campaign API ,275 milliseconds ,16921699946
+1,2023-08-16 12:44:11, Login API ,,169217005134
+2,2023-08-16 12:44:12, Login API ,526 milliseconds ,169217005134
+1,2023-08-16 12:44:12,SMS API ,,169217005278
+3,500 ,2023-08-16 12:44:12,SMS API ,336 milliseconds ,169217005278
+1,2023-08-16 12:44:12,Check created campaign Api ,,169217005284
+3,401 ,2023-08-16 12:44:12,Check created campaign Api ,266 milliseconds ,169217005284
+1,2023-08-16 12:44:12,Sms Via Url Campaign API ,,169217005212
+2,2023-08-16 12:44:12,Sms Via Url Campaign API ,295 milliseconds ,169217005212
+1,2023-08-16 12:44:12,Check account balance API ,,169217005293
+2,2023-08-16 12:44:13,Check account balance API ,772 milliseconds ,169217005293
+1,2023-08-16 12:44:13,Campaign List API ,,169217005380
+2,2023-08-16 12:44:13,Campaign List API ,221 milliseconds ,169217005380
+1,2023-08-16 12:44:13,Create Campaign API ,,169217005322
+2,2023-08-16 12:44:14,Create Campaign API ,287 milliseconds ,169217005322
+1,2023-08-16 12:45:11, Login API ,,16921701116
+2,2023-08-16 12:45:11, Login API ,437 milliseconds ,16921701116
+1,2023-08-16 12:45:11,SMS API ,,169217011175
+3,500 ,2023-08-16 12:45:13,SMS API ,1481 milliseconds ,169217011175
+1,2023-08-16 12:45:13,Check created campaign Api ,,169217011397
+3,401 ,2023-08-16 12:45:13,Check created campaign Api ,220 milliseconds ,169217011397
+1,2023-08-16 12:45:13,Sms Via Url Campaign API ,,169217011335
+2,2023-08-16 12:45:13,Sms Via Url Campaign API ,287 milliseconds ,169217011335
+1,2023-08-16 12:45:13,Check account balance API ,,169217011382
+2,2023-08-16 12:45:14,Check account balance API ,239 milliseconds ,169217011382
+1,2023-08-16 12:45:14,Campaign List API ,,169217011436
+2,2023-08-16 12:45:14,Campaign List API ,435 milliseconds ,169217011436
+1,2023-08-16 12:45:14,Create Campaign API ,,169217011480
+2,2023-08-16 12:45:15,Create Campaign API ,510 milliseconds ,169217011480
+Starting MonitoringApplication using Java 17.0.7 with PID 5236 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2447 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 5.646 seconds (process running for 6.537)
+1,2023-08-16 13:24:21, Login API ,,169217246190
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+2,2023-08-16 13:24:22, Login API ,854 milliseconds ,169217246190
+1,2023-08-16 13:24:22,SMS API ,,169217246235
+3,500 ,2023-08-16 13:24:23,SMS API ,503 milliseconds ,169217246235
+1,2023-08-16 13:24:23,Check created campaign Api ,,16921724638
+3,401 ,2023-08-16 13:24:23,Check created campaign Api ,277 milliseconds ,16921724638
+1,2023-08-16 13:24:23,Sms Via Url Campaign API ,,169217246349
+2,2023-08-16 13:24:23,Sms Via Url Campaign API ,303 milliseconds ,169217246349
+1,2023-08-16 13:24:23,Check account balance API ,,169217246368
+2,2023-08-16 13:24:23,Check account balance API ,242 milliseconds ,169217246368
+1,2023-08-16 13:24:23,Campaign List API ,,169217246384
+2,2023-08-16 13:24:24,Campaign List API ,251 milliseconds ,169217246384
+1,2023-08-16 13:24:24,Create Campaign API ,,169217246475
+2,2023-08-16 13:24:24,Create Campaign API ,296 milliseconds ,169217246475
+Starting MonitoringApplication using Java 17.0.7 with PID 10180 (C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring\target\classes started by user in C:\Users\user\Desktop\GIT\ADEONA\esms-api-monitoring)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8081 (http)
+Initializing ProtocolHandler ["http-nio-8081"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.11]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1740 ms
+Exposing 1 endpoint(s) beneath base path '/actuator'
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+Starting ProtocolHandler ["http-nio-8081"]
+Tomcat started on port(s): 8081 (http) with context path ''
+Started MonitoringApplication in 3.559 seconds (process running for 4.156)
+1,2023-08-16 13:25:17, Login API ,,169217251774
+4,2023-08-16 13:25:17, Login API ,169217251774
+1,2023-08-16 13:25:17,SMS API ,,169217251720
+3,401 ,2023-08-16 13:25:18,SMS API ,499 milliseconds ,169217251720
+1,2023-08-16 13:25:18,Check created campaign Api ,,16921725188
+3,401 ,2023-08-16 13:25:18,Check created campaign Api ,222 milliseconds ,16921725188
+1,2023-08-16 13:25:18,Sms Via Url Campaign API ,,169217251811
+2,2023-08-16 13:25:19,Sms Via Url Campaign API ,384 milliseconds ,169217251811
+1,2023-08-16 13:25:19,Check account balance API ,,169217251928
+2,2023-08-16 13:25:19,Check account balance API ,213 milliseconds ,169217251928
+1,2023-08-16 13:25:19,Campaign List API ,,169217251945
+3,401 ,2023-08-16 13:25:19,Campaign List API ,294 milliseconds ,169217251945
+1,2023-08-16 13:25:19,Create Campaign API ,,169217251951
+3,401 ,2023-08-16 13:25:19,Create Campaign API ,246 milliseconds ,169217251951
+1,2023-08-16 13:26:17, Login API ,,169217257785
+4,2023-08-16 13:26:17, Login API ,169217257785
+1,2023-08-16 13:26:17,SMS API ,,169217257745
+3,401 ,2023-08-16 13:26:18,SMS API ,434 milliseconds ,169217257745
+1,2023-08-16 13:26:18,Check created campaign Api ,,169217257864
+3,401 ,2023-08-16 13:26:18,Check created campaign Api ,197 milliseconds ,169217257864
+1,2023-08-16 13:26:18,Sms Via Url Campaign API ,,169217257866
+2,2023-08-16 13:26:18,Sms Via Url Campaign API ,274 milliseconds ,169217257866
+1,2023-08-16 13:26:18,Check account balance API ,,169217257839
+2,2023-08-16 13:26:18,Check account balance API ,224 milliseconds ,169217257839
+1,2023-08-16 13:26:18,Campaign List API ,,169217257844
+3,401 ,2023-08-16 13:26:19,Campaign List API ,188 milliseconds ,169217257844
+1,2023-08-16 13:26:19,Create Campaign API ,,169217257994
+3,401 ,2023-08-16 13:26:19,Create Campaign API ,190 milliseconds ,169217257994
+1,2023-08-16 13:27:17, Login API ,,169217263777
+4,2023-08-16 13:27:17, Login API ,169217263777
+1,2023-08-16 13:27:17,SMS API ,,169217263781
+3,401 ,2023-08-16 13:27:17,SMS API ,309 milliseconds ,169217263781
+1,2023-08-16 13:27:17,Check created campaign Api ,,169217263791
+3,401 ,2023-08-16 13:27:18,Check created campaign Api ,240 milliseconds ,169217263791
+1,2023-08-16 13:27:18,Sms Via Url Campaign API ,,169217263893
+2,2023-08-16 13:27:18,Sms Via Url Campaign API ,322 milliseconds ,169217263893
+1,2023-08-16 13:27:18,Check account balance API ,,169217263887
+2,2023-08-16 13:27:18,Check account balance API ,243 milliseconds ,169217263887
+1,2023-08-16 13:27:18,Campaign List API ,,169217263851
+3,401 ,2023-08-16 13:27:19,Campaign List API ,331 milliseconds ,169217263851
+1,2023-08-16 13:27:19,Create Campaign API ,,169217263972
+3,401 ,2023-08-16 13:27:19,Create Campaign API ,212 milliseconds ,169217263972
+1,2023-08-16 13:28:17, Login API ,,169217269781
+4,2023-08-16 13:28:17, Login API ,169217269781
+1,2023-08-16 13:28:17,SMS API ,,169217269746
+3,401 ,2023-08-16 13:28:18,SMS API ,421 milliseconds ,169217269746
+1,2023-08-16 13:28:18,Check created campaign Api ,,169217269829
+3,401 ,2023-08-16 13:28:18,Check created campaign Api ,266 milliseconds ,169217269829
+1,2023-08-16 13:28:18,Sms Via Url Campaign API ,,169217269889
+2,2023-08-16 13:28:18,Sms Via Url Campaign API ,328 milliseconds ,169217269889
+1,2023-08-16 13:28:18,Check account balance API ,,169217269855
+2,2023-08-16 13:28:18,Check account balance API ,213 milliseconds ,169217269855
+1,2023-08-16 13:28:18,Campaign List API ,,16921726984
+3,401 ,2023-08-16 13:28:19,Campaign List API ,335 milliseconds ,16921726984
+1,2023-08-16 13:28:19,Create Campaign API ,,169217269999
+3,401 ,2023-08-16 13:28:19,Create Campaign API ,431 milliseconds ,169217269999

@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MonitoringApplication<monitoring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sms.monitoring.MonitoringApplication",
+            "projectName": "monitoring",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
